@@ -1,0 +1,9 @@
+{
+    "name": "leticia/icatalo-mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
